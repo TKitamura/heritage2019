@@ -1,0 +1,12 @@
+#Default
+.DS_Store
+.project
+*.log
+dwsync.xml
+Thumbs.db
+_notes/
+
+#git_diff_export
+git_diff_export.pl
+export/
+

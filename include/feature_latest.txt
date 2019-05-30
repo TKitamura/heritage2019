@@ -1,0 +1,12 @@
+<aside id="arc-latest" class="scrvl">
+<h3 class="subttl">最新の特集</h3>
+<ul>
+  <li><a href="../../feature/2019/201905_01.html" class="hvr lazy" data-img="/heritage/3rd/img/feature/latest/201904.jpg" data-delay="500" data-loading="brown"><dl><dt class="date">2019.4.25</dt><dd class="ttl"><p><i>&darr;</i>ルウェンゾリ山地国立公園</p></dd></dl></a></li>
+  <li><a href="../../feature/2019/201904_01.html" class="hvr lazy" data-img="/heritage/3rd/img/feature/latest/201903.jpg" data-delay="500" data-loading="brown"><dl><dt class="date">2019.3.20</dt><dd class="ttl"><p><i>&darr;</i>チリビケテ国立公園</p></dd></dl></a></li>
+  <li><a href="../../feature/2019/201903_01.html" class="hvr lazy" data-img="/heritage/3rd/img/feature/latest/201902.jpg" data-delay="500" data-loading="brown"><dl><dt class="date">2019.2.17</dt><dd class="ttl"><p><i>&darr;</i>ディキスの石球のある首長制集落群</p></dd></dl></a></li>
+  <li><a href="../../feature/2019/201902_01.html" class="hvr lazy" data-img="/heritage/3rd/img/feature/latest/201901.jpg" data-delay="500" data-loading="brown"><dl><dt class="date">2019.1.30</dt><dd class="ttl"><p><i>&darr;</i>ヒトが作った絶景！世界最大の棚田</p></dd></dl></a></li>
+</ul>
+<div id="arc-latest-btn">
+<p><a href="/heritage/feature/list.htm">特集アーカイブ一覧</a></p>
+</div>
+</aside><!-- /arc-latest -->

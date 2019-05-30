@@ -1,0 +1,19 @@
+<header id="header">
+<h1 id="logo"><a href="../../">世界遺産</a></h1>
+<nav id="gnav-area">
+	<ul id="gnav">
+		<li id="gnav-top"><a href="../../">トップ</a></li>
+		<li id="gnav-next"><a href="../../next/">次回予告</a></li>
+		<li id="gnav-archive"><a href="../../archive/">アーカイブ</a></li>
+		<li id="gnav-more">
+			<ul>
+				<li id="gnav-feature"><a href="../../feature/">特集</a></li>
+				<li id="gnav-kizai"><a href="../../kizai/">機材紹介</a></li>
+				<li id="gnav-about"><a href="../../about/">世界遺産とは</a></li>
+				<li id="gnav-cast"><a href="../../cast/">キャスト</a></li>
+				<li id="gnav-list"><a href="../../list/">世界遺産リスト</a></li>
+			</ul>
+		</li>
+	</ul>
+</nav>
+</header><!-- /header -->
