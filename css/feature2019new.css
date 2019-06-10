@@ -36,6 +36,7 @@ div.featureWideImage{
 	position:relative;
 	background-repeat: no-repeat;
 	background-size: cover;
+	margin-top:20px;
 }
 
 p.wideCaption{
@@ -184,7 +185,88 @@ img.feature_dammy{
 	width:100%;
 }
 
-/*//////// feature 1905 ////////*/
+
+
+/* ---- Media Queries ---- */
+
+@media all and (max-width: 767px) {
+
+
+div.featureInterviewArea{
+	width:90%;
+	font-size: 95%;
+	margin:40px auto;
+}
+
+div.squareRight{
+	right:20px;
+	top:-40px;	
+}
+p.squareCaption.left{
+	font-size: 85%;
+	width:60%;
+}
+div.squareLeft{
+	left:20px;
+	top:-40px;	
+}
+p.squareCaption.right{
+	font-size: 85%;
+	width:60%;
+	position: relative;
+	left:40%;
+}
+
+div.squareImage{
+	max-width:140px;max-height:140px;
+	background-size: cover;
+}
+
+p.wideCaption{
+	margin-left:5%;
+	text-align: left;
+	width:88%;
+	font-size: 85%;
+	color:#666;
+	letter-spacing:1px;
+	line-height: 1.7;
+	margin-bottom:20px;
+}
+
+}/*767*/
+@media all and (max-width: 380px) {
+div.featureInterviewArea{
+font-size: 90%;
+line-height: 1.7;
+}
+p.wideCaption{
+font-size: 80%;
+}
+div.squareRight{
+	right:10px;
+	top:-40px;	
+}
+p.squareCaption.left{
+	font-size: 80%;
+	width:52%;
+}
+div.squareLeft{
+	left:10px;
+	top:-40px;	
+}
+p.squareCaption.right{
+	font-size: 80%;
+	width:48%;
+	position: relative;
+	left:52%;
+}
+}
+
+
+
+/**/
+/*//////// feature 1905 START ////////*/
+/**/
 
 /* feature 1905 MENU*/
 
@@ -202,24 +284,24 @@ div.menuArea1905 a:hover{
 div.nav1905_1{
 	width:50%;
 	position: relative;
-	background-color: #092f31;
+	background-color: #182940;
 }
 div.nav1905_1 a{
 	display:block;
 	width:100%;
-	background-color: #092f31;
+	background-color: #182940;
 }
 div.nav1905_2{
 	width:50%;
 	position:absolute;
 	top:0px;
 	left:50%;
-	background-color: #b67c6a;
+	background-color: #AC8F7C;
 }
 div.nav1905_2 a{
 	display:block;
   	width:100%;
-  	background-color: #b67c6a;
+  	background-color: #AC8F7C;
 }
 div.nav1905_1 img,div.nav1905_2 img{
 	width:100%;
@@ -286,8 +368,6 @@ div#featureCover190501{
 	background-size: cover;
 }
 
-
-
 /* feature 1905INTERVIEW AREA*/
 
 div.int1905{
@@ -311,80 +391,143 @@ p.featureAns{
 	line-height:1.8;	
 }
 
+/**/
+/*//////// feature 1905 END ////////*/
+/**/
 
-/* ---- Media Queries ---- */
-
-@media all and (max-width: 767px) {
 
 
-div.featureInterviewArea{
-	width:90%;
-	font-size: 95%;
-	margin:40px auto;
+/**/
+/*//////// feature 1906 START ////////*/
+/**/
+
+/* feature 1906 MENU*/
+
+div.menuArea1906{
+	width:100%;
+	position:relative;
+}
+div.menuArea1906 a{
+	 display:block;	
 }
 
-div.squareRight{
-	right:20px;
-	top:-40px;	
+div.menuArea1906 a:hover{
+	background-color: #000;	
 }
-p.squareCaption.left{
-	font-size: 85%;
-	width:60%;
-}
-div.squareLeft{
-	left:20px;
-	top:-40px;	
-}
-p.squareCaption.right{
-	font-size: 85%;
-	width:60%;
+div.nav1906_1{
+	width:50%;
 	position: relative;
-	left:40%;
+	background-color: #182940;
+}
+div.nav1906_1 a{
+	display:block;
+	width:100%;
+	background-color: #182940;
+}
+div.nav1906_2{
+	width:50%;
+	position:absolute;
+	top:0px;
+	left:50%;
+	background-color: #AC8F7C;
+}
+div.nav1906_2 a{
+	display:block;
+  	width:100%;
+  	background-color: #AC8F7C;
+}
+div.nav1906_1 img,div.nav1906_2 img{
+	width:100%;
+	max-width:342px;
+}
+div.nav1906_1 span, div.nav1906_2 span{
+	display:block;
+	position:absolute;
+	bottom:-10px;
+	left:48%;	
+}
+span.featureTriangle1906{
+	z-index:5000;
 }
 
-div.squareImage{
-	max-width:140px;max-height:140px;
+
+/* feature 1906 FOOTER MENU*/
+
+div#footerArea1906{
+	width:100%;
+	position:relative;
+	margin-top:80px;
+}
+div#footerArea1906 a{
+	 display:block;	
+}
+div#footerArea1906 a:hover{
+	background-color: #000;	
+}
+div.nav1906_1 span.bottom, div.nav1906_2 span.bottom{
+	display:block;
+	position:absolute;
+	top:-12px;
+	left:48%;	
+}
+
+/* feature 1906 COVER AREA*/
+
+div.mainCoverArea1906{
+  width:100%;
+  background:url(../img/feature/2019/1906/headerimage2.jpg) top center no-repeat;
+  background-size: cover;
+}
+
+div.headerImage1906{
+	position:relative;
+	width:100%;
+	background:url(../img/feature/2019/1906/headerimage.jpg) top center no-repeat;
 	background-size: cover;
 }
 
-p.wideCaption{
-	margin-left:5%;
-	text-align: left;
-	width:88%;
-	font-size: 85%;
-	color:#666;
-	letter-spacing:1px;
-	line-height: 1.7;
-	margin-bottom:20px;
+div.shortCover1906{
+	height:555px;	
 }
 
-}/*767*/
-@media all and (max-width: 380px) {
-div.int1905{
-font-size: 90%;
-line-height: 1.7;
+div.featureCoverArea1906{
+	margin-bottom:30px;	
+	position:relative;
 }
-p.wideCaption{
-font-size: 80%;
-}
-div.squareRight{
-	right:10px;
-	top:-40px;	
-}
-p.squareCaption.left{
-	font-size: 80%;
-	width:52%;
-}
-div.squareLeft{
-	left:10px;
-	top:-40px;	
-}
-p.squareCaption.right{
-	font-size: 80%;
-	width:48%;
+
+div#featureCover190601{
+	width:100%;
 	position: relative;
-	left:52%;
+	top:-1px;
+	background-size: cover;
 }
+
+/* feature 1906INTERVIEW AREA*/
+
+div.int1906{
+	text-align:left;	
 }
+
+div.int1906 p.featureAsk{
+	font-weight:bold;
+	color:#8B7B49;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;
+	margin:30px 0px 15px 0px;
+}
+
+p.featureAns{
+	margin:0px 0px 50px 0px;
+	color:#333;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;	
+}
+
+/**/
+/*//////// feature 1906 END ////////*/
+/**/
+
 
 /*eof*/

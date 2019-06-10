@@ -7,7 +7,8 @@ $(document).ready(function(){
 	
 	//imageloaded
      $("div.lazy").lazyload({
-        effect : "fadeIn"
+        effect : "fadeIn",
+        data_attribute : 'img'
     });//lazy
  
 });//ready
