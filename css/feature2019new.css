@@ -39,6 +39,10 @@ div.featureWideImage{
 	margin-top:20px;
 }
 
+div.featureWideImage.wide{
+	background-size: contain;
+}
+
 p.wideCaption{
 	margin-left:5%;
 	text-align: left;
@@ -527,6 +531,408 @@ p.featureAns{
 
 /**/
 /*//////// feature 1906 END ////////*/
+/**/
+
+
+
+/**/
+/*//////// feature 1906 START ////////*/
+/**/
+
+/* feature 1906 MENU*/
+
+div.menuArea1906{
+	width:100%;
+	position:relative;
+}
+div.menuArea1906 a{
+	 display:block;	
+}
+
+div.menuArea1906 a:hover{
+	background-color: #000;	
+}
+div.nav1906_1{
+	width:50%;
+	position: relative;
+	background-color: #182940;
+}
+div.nav1906_1 a{
+	display:block;
+	width:100%;
+	background-color: #182940;
+}
+div.nav1906_2{
+	width:50%;
+	position:absolute;
+	top:0px;
+	left:50%;
+	background-color: #AC8F7C;
+}
+div.nav1906_2 a{
+	display:block;
+  	width:100%;
+  	background-color: #AC8F7C;
+}
+div.nav1906_1 img,div.nav1906_2 img{
+	width:100%;
+	max-width:342px;
+}
+div.nav1906_1 span, div.nav1906_2 span{
+	display:block;
+	position:absolute;
+	bottom:-10px;
+	left:48%;	
+}
+span.featureTriangle1906{
+	z-index:5000;
+}
+
+
+/* feature 1906 FOOTER MENU*/
+
+div#footerArea1906{
+	width:100%;
+	position:relative;
+	margin-top:80px;
+}
+div#footerArea1906 a{
+	 display:block;	
+}
+div#footerArea1906 a:hover{
+	background-color: #000;	
+}
+div.nav1906_1 span.bottom, div.nav1906_2 span.bottom{
+	display:block;
+	position:absolute;
+	top:-12px;
+	left:48%;	
+}
+
+/* feature 1906 COVER AREA*/
+
+div.mainCoverArea1906{
+  width:100%;
+  background:url(../img/feature/2019/1906/headerimage2.jpg) top center no-repeat;
+  background-size: cover;
+}
+
+div.headerImage1906{
+	position:relative;
+	width:100%;
+	background:url(../img/feature/2019/1906/headerimage.jpg) top center no-repeat;
+	background-size: cover;
+}
+
+div.shortCover1906{
+	height:555px;	
+}
+
+div.featureCoverArea1906{
+	margin-bottom:30px;	
+	position:relative;
+}
+
+div#featureCover190601{
+	width:100%;
+	position: relative;
+	top:-1px;
+	background-size: cover;
+}
+
+/* feature 1906INTERVIEW AREA*/
+
+div.int1906{
+	text-align:left;	
+}
+
+div.int1906 p.featureAsk{
+	font-weight:bold;
+	color:#8B7B49;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;
+	margin:30px 0px 15px 0px;
+}
+
+p.featureAns{
+	margin:0px 0px 50px 0px;
+	color:#333;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;	
+}
+
+/**/
+/*//////// feature 1906 END ////////*/
+/**/
+
+
+
+/**/
+/*//////// feature 1906 START ////////*/
+/**/
+
+/* feature 1906 MENU*/
+
+div.menuArea1906{
+	width:100%;
+	position:relative;
+}
+div.menuArea1906 a{
+	 display:block;	
+}
+
+div.menuArea1906 a:hover{
+	background-color: #000;	
+}
+div.nav1906_1{
+	width:50%;
+	position: relative;
+	background-color: #182940;
+}
+div.nav1906_1 a{
+	display:block;
+	width:100%;
+	background-color: #182940;
+}
+div.nav1906_2{
+	width:50%;
+	position:absolute;
+	top:0px;
+	left:50%;
+	background-color: #AC8F7C;
+}
+div.nav1906_2 a{
+	display:block;
+  	width:100%;
+  	background-color: #AC8F7C;
+}
+div.nav1906_1 img,div.nav1906_2 img{
+	width:100%;
+	max-width:342px;
+}
+div.nav1906_1 span, div.nav1906_2 span{
+	display:block;
+	position:absolute;
+	bottom:-10px;
+	left:48%;	
+}
+span.featureTriangle1906{
+	z-index:5000;
+}
+
+
+/* feature 1906 FOOTER MENU*/
+
+div#footerArea1906{
+	width:100%;
+	position:relative;
+	margin-top:80px;
+}
+div#footerArea1906 a{
+	 display:block;	
+}
+div#footerArea1906 a:hover{
+	background-color: #000;	
+}
+div.nav1906_1 span.bottom, div.nav1906_2 span.bottom{
+	display:block;
+	position:absolute;
+	top:-12px;
+	left:48%;	
+}
+
+/* feature 1906 COVER AREA*/
+
+div.mainCoverArea1906{
+  width:100%;
+  background:url(../img/feature/2019/1906/headerimage2.jpg) top center no-repeat;
+  background-size: cover;
+}
+
+div.headerImage1906{
+	position:relative;
+	width:100%;
+	background:url(../img/feature/2019/1906/headerimage.jpg) top center no-repeat;
+	background-size: cover;
+}
+
+div.shortCover1906{
+	height:555px;	
+}
+
+div.featureCoverArea1906{
+	margin-bottom:30px;	
+	position:relative;
+}
+
+div#featureCover190601{
+	width:100%;
+	position: relative;
+	top:-1px;
+	background-size: cover;
+}
+
+/* feature 1906INTERVIEW AREA*/
+
+div.int1906{
+	text-align:left;	
+}
+
+div.int1906 p.featureAsk{
+	font-weight:bold;
+	color:#8B7B49;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;
+	margin:30px 0px 15px 0px;
+}
+
+p.featureAns{
+	margin:0px 0px 50px 0px;
+	color:#333;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;	
+}
+
+/**/
+/*//////// feature 1906 END ////////*/
+/**/
+
+
+
+/**/
+/*//////// feature 1907 START ////////*/
+/**/
+
+/* feature 1907 MENU*/
+
+div.menuArea1907{
+	width:100%;
+	position:relative;
+}
+div.menuArea1907 a{
+	 display:block;	
+}
+
+div.menuArea1907 a:hover{
+	background-color: #ADD044;	
+}
+div.nav1907_1{
+	width:50%;
+	position: relative;
+	background-color: #FFF100;
+}
+div.nav1907_1 a{
+	display:block;
+	width:100%;
+	background-color: #FFF100;
+}
+div.nav1907_2{
+	width:50%;
+	position:absolute;
+	top:0px;
+	left:50%;
+	background-color: #65554F;
+}
+div.nav1907_2 a{
+	display:block;
+  	width:100%;
+  	background-color: #65554F;
+}
+div.nav1907_1 img,div.nav1907_2 img{
+	width:100%;
+	max-width:342px;
+}
+div.nav1907_1 span, div.nav1907_2 span{
+	display:block;
+	position:absolute;
+	bottom:-10px;
+	left:48%;	
+}
+span.featureTriangle1907{
+	z-index:5000;
+}
+
+
+/* feature 1907 FOOTER MENU*/
+
+div#footerArea1907{
+	width:100%;
+	position:relative;
+	margin-top:80px;
+}
+div#footerArea1907 a{
+	 display:block;	
+}
+div#footerArea1907 a:hover{
+	background-color: #ADD044;	
+}
+div.nav1907_1 span.bottom, div.nav1907_2 span.bottom{
+	display:block;
+	position:absolute;
+	top:-12px;
+	left:48%;	
+}
+
+/* feature 1907 COVER AREA*/
+
+div.mainCoverArea1907{
+  width:100%;
+  background:url(../img/feature/2019/1907/headerimage2.jpg) top center no-repeat;
+  background-size: cover;
+}
+
+div.headerImage1907{
+	position:relative;
+	width:100%;
+	background:url(../img/feature/2019/1907/headerimage.jpg) top center no-repeat;
+	background-size: cover;
+}
+
+div.shortCover1907{
+	height:555px;	
+}
+
+div.featureCoverArea1907{
+	margin-bottom:30px;	
+	position:relative;
+}
+
+div#featureCover190701{
+	width:100%;
+	position: relative;
+	top:-1px;
+	background-size: cover;
+}
+
+/* feature 1907INTERVIEW AREA*/
+
+div.int1907{
+	text-align:left;	
+}
+
+div.int1907 p.featureAsk{
+	font-weight:bold;
+	color:#65554F;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;
+	margin:30px 0px 15px 0px;
+}
+
+p.featureAns{
+	margin:0px 0px 50px 0px;
+	color:#333;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;	
+}
+
+/**/
+/*//////// feature 1907 END ////////*/
 /**/
 
 
