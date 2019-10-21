@@ -1336,4 +1336,136 @@ p.featureAns{
 /*//////// feature 1910 END ////////*/
 /**/
 
+
+/**/
+/*//////// feature 1911 START ////////*/
+/**/
+
+/* feature 1911 MENU*/
+
+div.menuArea1911{
+	width:100%;
+	position:relative;
+}
+div.menuArea1911 a{
+	 display:block;	
+}
+
+div.menuArea1911 a:hover{
+	background-color: #ADD044;	
+}
+div.nav1911_1{
+	width:50%;
+	position: relative;
+	background-color: #18AF9B;
+}
+div.nav1911_1 a{
+	display:block;
+	width:100%;
+	background-color: #18AF9B;
+}
+div.nav1911_2{
+	width:50%;
+	position:absolute;
+	top:0px;
+	left:50%;
+	background-color: #FFF100;
+}
+div.nav1911_2 a{
+	display:block;
+  	width:100%;
+  	background-color: #FFF100;
+}
+div.nav1911_1 img,div.nav1911_2 img{
+	width:100%;
+	max-width:342px;
+}
+div.nav1911_1 span, div.nav1911_2 span{
+	display:block;
+	position:absolute;
+	bottom:-10px;
+	left:48%;	
+}
+span.featureTriangle1911{
+	z-index:5000;
+}
+
+
+/* feature 1911 FOOTER MENU*/
+
+div#footerArea1911{
+	width:100%;
+	position:relative;
+	margin-top:80px;
+}
+div#footerArea1911 a{
+	 display:block;	
+}
+div#footerArea1911 a:hover{
+	background-color: #ADD044;	
+}
+div.nav1911_1 span.bottom, div.nav1911_2 span.bottom{
+	display:block;
+	position:absolute;
+	top:-12px;
+	left:48%;	
+}
+
+/* feature 1911 COVER AREA*/
+
+div.mainCoverArea1911{
+  width:100%;
+  background:url(../img/feature/2019/1911/headerimage.jpg) top center no-repeat;
+  background-size: cover;
+}
+
+div.headerImage1911{
+	position:relative;
+	width:100%;
+	background:url(../img/feature/2019/1911/headerimage2.jpg) top center no-repeat;
+	background-size: cover;
+}
+
+div.shortCover1911{
+	height:555px;	
+}
+
+div.featureCoverArea1911{
+	margin-bottom:30px;	
+	position:relative;
+}
+
+div#featureCover191101{
+	width:100%;
+	position: relative;
+	top:-1px;
+	background-size: cover;
+}
+
+/* feature 1911INTERVIEW AREA*/
+
+div.int1911{
+	text-align:left;	
+}
+
+div.int1911 p.featureAsk{
+	font-weight:bold;
+	color:#18AF9B;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;
+	margin:30px 0px 15px 0px;
+}
+
+p.featureAns{
+	margin:0px 0px 50px 0px;
+	color:#333;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;	
+}
+
+/**/
+/*//////// feature 1911 END ////////*/
+/**/
 /*eof*/
