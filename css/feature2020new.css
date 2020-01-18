@@ -403,3 +403,137 @@ p.featureAns{
 /*eof*/
 
 
+/**/
+/*//////// feature 2002 START ////////*/
+/**/
+
+/* feature 2002 MENU*/
+
+div.menuArea2002{
+	width:100%;
+	position:relative;
+}
+div.menuArea2002 a{
+	 display:block;	
+}
+
+div.menuArea2002 a:hover{
+	background-color: #ADD044;	
+}
+div.nav2002_1{
+	width:50%;
+	position: relative;
+	background-color: #193161;
+}
+div.nav2002_1 a{
+	display:block;
+	width:100%;
+	background-color: #193161;
+}
+div.nav2002_2{
+	width:50%;
+	position:absolute;
+	top:0px;
+	left:50%;
+	background-color: #65C4D2;
+}
+div.nav2002_2 a{
+	display:block;
+  	width:100%;
+  	background-color: #65C4D2;
+}
+div.nav2002_1 img,div.nav2002_2 img{
+	width:100%;
+	max-width:342px;
+}
+div.nav2002_1 span, div.nav2002_2 span{
+	display:block;
+	position:absolute;
+	bottom:-10px;
+	left:48%;	
+}
+span.featureTriangle2002{
+	z-index:5000;
+}
+
+
+/* feature 2002 FOOTER MENU*/
+
+div#footerArea2002{
+	width:100%;
+	position:relative;
+	margin-top:80px;
+}
+div#footerArea2002 a{
+	 display:block;	
+}
+div#footerArea2002 a:hover{
+	background-color: #ADD044;	
+}
+div.nav2002_1 span.bottom, div.nav2002_2 span.bottom{
+	display:block;
+	position:absolute;
+	top:-12px;
+	left:48%;	
+}
+
+/* feature 2002 COVER AREA*/
+
+div.mainCoverArea2002{
+  width:100%;
+  background:url(../img/feature/2020/2002/headerimage.jpg) top center no-repeat;
+  background-size: cover;
+}
+
+div.headerImage2002{
+	position:relative;
+	width:100%;
+	background:url(../img/feature/2020/2002/headerimage2.jpg) top center no-repeat;
+	background-size: cover;
+}
+
+div.shortCover2002{
+	height:555px;	
+}
+
+div.featureCoverArea2002{
+	margin-bottom:30px;	
+	position:relative;
+}
+
+div#featureCover200201{
+	width:100%;
+	position: relative;
+	top:-1px;
+	background-size: cover;
+}
+
+/* feature 2002INTERVIEW AREA*/
+
+div.int2002{
+	text-align:left;	
+}
+
+div.int2002 p.featureAsk{
+	font-weight:bold;
+	color:#0095A6;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;
+	margin:30px 0px 15px 0px;
+}
+
+p.featureAns{
+	margin:0px 0px 50px 0px;
+	color:#333;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;	
+}
+
+/**/
+/*//////// feature 2002 END ////////*/
+/**/
+/*eof*/
+
+
