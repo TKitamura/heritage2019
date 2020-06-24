@@ -1078,3 +1078,137 @@ p.featureAns{
 /**/
 /*eof*/
 
+
+/**/
+/*//////// feature 2007 START ////////*/
+/**/
+
+/* feature 2007 MENU*/
+
+div.menuArea2007{
+	width:100%;
+	position:relative;
+}
+div.menuArea2007 a{
+	 display:block;	
+}
+
+div.menuArea2007 a:hover{
+	background-color: #ADD044;	
+}
+div.nav2007_1{
+	width:50%;
+	position: relative;
+	background-color: #2A2A37;
+}
+div.nav2007_1 a{
+	display:block;
+	width:100%;
+	background-color: #2A2A37;
+}
+div.nav2007_2{
+	width:50%;
+	position:absolute;
+	top:0px;
+	left:50%;
+	background-color: #74868D;
+}
+div.nav2007_2 a{
+	display:block;
+  	width:100%;
+  	background-color: #74868D;
+}
+div.nav2007_1 img,div.nav2007_2 img{
+	width:100%;
+	max-width:342px;
+}
+div.nav2007_1 span, div.nav2007_2 span{
+	display:block;
+	position:absolute;
+	bottom:-10px;
+	left:48%;	
+}
+span.featureTriangle2007{
+	z-index:5000;
+}
+
+
+/* feature 2007 FOOTER MENU*/
+
+div#footerArea2007{
+	width:100%;
+	position:relative;
+	margin-top:80px;
+}
+div#footerArea2007 a{
+	 display:block;	
+}
+div#footerArea2007 a:hover{
+	background-color: #ADD044;	
+}
+div.nav2007_1 span.bottom, div.nav2007_2 span.bottom{
+	display:block;
+	position:absolute;
+	top:-12px;
+	left:48%;	
+}
+
+/* feature 2007 COVER AREA*/
+
+div.mainCoverArea2007{
+  width:100%;
+  background:url(../img/feature/2020/2007/headerimage.jpg) top center no-repeat;
+  background-size: cover;
+}
+
+div.headerImage2007{
+	position:relative;
+	width:100%;
+	background:url(../img/feature/2020/2007/headerimage2.jpg) top center no-repeat;
+	background-size: cover;
+}
+
+div.shortCover2007{
+	/*height:555px;*/	
+}
+
+div.featureCoverArea2007{
+	margin-bottom:30px;	
+	position:relative;
+}
+
+div#featureCover200701{
+	width:100%;
+	position: relative;
+	top:-1px;
+	background-size: cover;
+}
+
+/* feature 2007INTERVIEW AREA*/
+
+div.int2007{
+	text-align:left;	
+}
+
+div.int2007 p.featureAsk{
+	font-weight:bold;
+	color:#3E90AC;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;
+	margin:30px 0px 15px 0px;
+}
+
+p.featureAns{
+	margin:0px 0px 50px 0px;
+	color:#333;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;	
+}
+
+/**/
+/*//////// feature 2007 END ////////*/
+/**/
+/*eof*/
+
