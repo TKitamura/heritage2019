@@ -1347,3 +1347,139 @@ p.featureAns{
 /*//////// feature 2008 END ////////*/
 /**/
 /*eof*/
+
+
+
+
+/**/
+/*//////// feature 2009 START ////////*/
+/**/
+
+/* feature 2009 MENU*/
+
+div.menuArea2009{
+	width:100%;
+	position:relative;
+}
+div.menuArea2009 a{
+	 display:block;	
+}
+
+div.menuArea2009 a:hover{
+	background-color: #ADD044;	
+}
+div.nav2009_1{
+	width:50%;
+	position: relative;
+	background-color: #3D363B;
+}
+div.nav2009_1 a{
+	display:block;
+	width:100%;
+	background-color: #3D363B;
+}
+div.nav2009_2{
+	width:50%;
+	position:absolute;
+	top:0px;
+	left:50%;
+	background-color: #929D7F;
+}
+div.nav2009_2 a{
+	display:block;
+  	width:100%;
+  	background-color: #929D7F;
+}
+div.nav2009_1 img,div.nav2009_2 img{
+	width:100%;
+	max-width:342px;
+}
+div.nav2009_1 span, div.nav2009_2 span{
+	display:block;
+	position:absolute;
+	bottom:-10px;
+	left:48%;	
+}
+span.featureTriangle2009{
+	z-index:5000;
+}
+
+
+/* feature 2009 FOOTER MENU*/
+
+div#footerArea2009{
+	width:100%;
+	position:relative;
+	margin-top:80px;
+}
+div#footerArea2009 a{
+	 display:block;	
+}
+div#footerArea2009 a:hover{
+	background-color: #ADD044;	
+}
+div.nav2009_1 span.bottom, div.nav2009_2 span.bottom{
+	display:block;
+	position:absolute;
+	top:-12px;
+	left:48%;	
+}
+
+/* feature 2009 COVER AREA*/
+
+div.mainCoverArea2009{
+  width:100%;
+  background:url(../img/feature/2020/2009/headerimage.jpg) top center no-repeat;
+  background-size: cover;
+}
+
+div.headerImage2009{
+	position:relative;
+	width:100%;
+	background:url(../img/feature/2020/2009/headerimage2.jpg) top center no-repeat;
+	background-size: cover;
+}
+
+div.shortCover2009{
+	/*height:555px;*/	
+}
+
+div.featureCoverArea2009{
+	margin-bottom:30px;	
+	position:relative;
+}
+
+div#featureCover200901{
+	width:100%;
+	position: relative;
+	top:-1px;
+	background-size: cover;
+}
+
+/* feature 2009INTERVIEW AREA*/
+
+div.int2009{
+	text-align:left;	
+}
+
+div.int2009 p.featureAsk{
+	font-weight:bold;
+	color:#728B75;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;
+	margin:30px 0px 15px 0px;
+}
+
+p.featureAns{
+	margin:0px 0px 50px 0px;
+	color:#333;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;	
+}
+
+/**/
+/*//////// feature 2009 END ////////*/
+/**/
+/*eof*/
