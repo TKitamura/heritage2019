@@ -1483,3 +1483,138 @@ p.featureAns{
 /*//////// feature 2009 END ////////*/
 /**/
 /*eof*/
+
+
+
+/**/
+/*//////// feature 2010 START ////////*/
+/**/
+
+/* feature 2010 MENU*/
+
+div.menuArea2010{
+	width:100%;
+	position:relative;
+}
+div.menuArea2010 a{
+	 display:block;	
+}
+
+div.menuArea2010 a:hover{
+	background-color: #000;	
+}
+div.nav2010_1{
+	width:50%;
+	position: relative;
+	background-color: #503261;
+}
+div.nav2010_1 a{
+	display:block;
+	width:100%;
+	background-color: #503261;
+}
+div.nav2010_2{
+	width:50%;
+	position:absolute;
+	top:0px;
+	left:50%;
+	background-color: #74C6BD;
+}
+div.nav2010_2 a{
+	display:block;
+  	width:100%;
+  	background-color: #74C6BD;
+}
+div.nav2010_1 img,div.nav2010_2 img{
+	width:100%;
+	max-width:342px;
+}
+div.nav2010_1 span, div.nav2010_2 span{
+	display:block;
+	position:absolute;
+	bottom:-10px;
+	left:48%;	
+}
+span.featureTriangle2010{
+	z-index:5000;
+}
+
+
+/* feature 2010 FOOTER MENU*/
+
+div#footerArea2010{
+	width:100%;
+	position:relative;
+	margin-top:80px;
+}
+div#footerArea2010 a{
+	 display:block;	
+}
+div#footerArea2010 a:hover{
+	background-color: #000;	
+}
+div.nav2010_1 span.bottom, div.nav2010_2 span.bottom{
+	display:block;
+	position:absolute;
+	top:-12px;
+	left:48%;	
+}
+
+/* feature 2010 COVER AREA*/
+
+div.mainCoverArea2010{
+  width:100%;
+  background:url(../img/feature/2020/2010/headerimage.jpg) top center no-repeat;
+  background-size: cover;
+}
+
+div.headerImage2010{
+	position:relative;
+	width:100%;
+	background:url(../img/feature/2020/2010/headerimage2.jpg) top center no-repeat;
+	background-size: cover;
+}
+
+div.shortCover2010{
+	/*height:555px;*/	
+}
+
+div.featureCoverArea2010{
+	margin-bottom:30px;	
+	position:relative;
+}
+
+div#featureCover201001{
+	width:100%;
+	position: relative;
+	top:-1px;
+	background-size: cover;
+}
+
+/* feature 2010INTERVIEW AREA*/
+
+div.int2010{
+	text-align:left;	
+}
+
+div.int2010 p.featureAsk{
+	font-weight:bold;
+	color:#503261;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;
+	margin:30px 0px 15px 0px;
+}
+
+p.featureAns{
+	margin:0px 0px 50px 0px;
+	color:#333;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;	
+}
+
+/**/
+/*//////// feature 2010 END ////////*/
+/**/
+/*eof*/
