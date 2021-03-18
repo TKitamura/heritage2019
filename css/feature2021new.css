@@ -672,3 +672,139 @@ p.featureAns{
 /*//////// feature 2103 END ////////*/
 /**/
 /*eof*/
+
+
+
+
+/**/
+/*//////// feature 2104 START ////////*/
+/**/
+
+/* feature 2104 MENU*/
+
+div.menuArea2104{
+	width:100%;
+	position:relative;
+}
+div.menuArea2104 a{
+	 display:block;	
+}
+
+div.menuArea2104 a:hover{
+	background-color: #000;	
+}
+div.nav2104_1{
+	width:50%;
+	position: relative;
+	background-color: #ED7100;
+}
+div.nav2104_1 a{
+	display:block;
+	width:100%;
+	background-color: #ED7100;
+}
+div.nav2104_2{
+	width:50%;
+	position:absolute;
+	top:0px;
+	left:50%;
+	background-color: #4ABED2;
+}
+div.nav2104_2 a{
+	display:block;
+  	width:100%;
+  	background-color: #4ABED2;
+}
+div.nav2104_1 img,div.nav2104_2 img{
+	width:100%;
+	max-width:342px;
+}
+div.nav2104_1 span, div.nav2104_2 span{
+	display:block;
+	position:absolute;
+	bottom:-10px;
+	left:48%;	
+}
+span.featureTriangle2104{
+	z-index:5000;
+}
+
+
+/* feature 2104 FOOTER MENU*/
+
+div#footerArea2104{
+	width:100%;
+	position:relative;
+	margin-top:80px;
+}
+div#footerArea2104 a{
+	 display:block;	
+}
+div#footerArea2104 a:hover{
+	background-color: #000;	
+}
+div.nav2104_1 span.bottom, div.nav2104_2 span.bottom{
+	display:block;
+	position:absolute;
+	top:-12px;
+	left:48%;	
+}
+
+/* feature 2104 COVER AREA*/
+
+div.mainCoverArea2104{
+  width:100%;
+  background:url(../img/feature/2021/2104/headerimage.jpg) top center no-repeat;
+  background-size: cover;
+}
+
+div.headerImage2104{
+	position:relative;
+	width:100%;
+	background:url(../img/feature/2021/2104/headerimage2.jpg) top center no-repeat;
+	background-size: cover;
+}
+
+div.shortCover2104{
+	height:555px;	
+}
+
+div.featureCoverArea2104{
+	margin-bottom:30px;	
+	position:relative;
+}
+
+div#featureCover210401{
+	width:100%;
+	position: relative;
+	top:-1px;
+	background-size: cover;
+}
+
+/* feature 2104INTERVIEW AREA*/
+
+div.int2104{
+	text-align:left;	
+}
+
+div.int2104 p.featureAsk{
+	font-weight:bold;
+	color:#964093;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;
+	margin:30px 0px 15px 0px;
+}
+
+p.featureAns{
+	margin:0px 0px 50px 0px;
+	color:#333;
+	font-size:100%;
+	letter-spacing:1px;
+	line-height:1.8;	
+}
+
+/**/
+/*//////// feature 2104 END ////////*/
+/**/
+/*eof*/
